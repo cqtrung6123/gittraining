@@ -1,0 +1,7 @@
+-git init
+-git add .
+-git commit -m ""
+-git checkout -b 'namebranch'
+-git status
+-git remote add origin link(https or shh)
+-git push origin 'namebranch'
